@@ -1,0 +1,3 @@
+include imwor/frontalface.xml
+include README.rst
+recursive-exclude imwor/test *.*

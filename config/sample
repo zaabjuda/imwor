@@ -1,0 +1,11 @@
+port = 8888
+allowed_hosts = ["localhost"]
+max_requests = 50
+timeout = 7.5
+
+background = "ccc"
+filter = "bilinear"
+format = None
+mode = "crop"
+position = "top"
+quality = "90"
